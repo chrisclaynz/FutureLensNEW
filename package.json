@@ -20,5 +20,8 @@
       "^.+\\.js$": "babel-jest"
     },
     "testEnvironment": "jsdom"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4"
   }
 }
